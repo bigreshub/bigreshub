@@ -1,5 +1,5 @@
-## 所有脚本均来源于网络，仅限学习/开发用途，不提供任何形式的担保，包括功能、安全性或法律合规性，下载或使用仓库內任意脚本导致的后果由使用者自行承担，下载后请在24小时内删除
-### All scripts are sourced from the internet and are for learning and development purposes only. No warranties of any kind are provided, including but not limited to functionality, security, or legal compliance. Users assume all risks associated with downloading or using any scripts from this repository. Please delete any downloaded scripts within 24 hours.
+## 本仓库所有资源均搜集于网络，仅限学习/开发用途，不提供任何形式的担保，包括功能、安全性或法律合规性，下载或使用仓库內任意资源导致的后果由使用者自行承担，下载后请在24小时内删除
+### All resources in this repository are collected from the Internet and are only for learning and development purposes. No warranties of any kind are provided, including but not limited to functionality, security, or legal compliance. Users are solely responsible for any consequences resulting from downloading or using any resources within the repository. Please delete the downloaded resources within 24 hours.
 <!--
 **bigreshub/bigreshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
