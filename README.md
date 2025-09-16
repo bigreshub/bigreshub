@@ -1,10 +1,10 @@
-## Hi there 👋
+## 所有脚本均来源于网络，仅限学习/开发用途，不提供任何形式的担保，包括功能、安全性或法律合规性，下载或使用仓库內任意脚本导致的后果由使用者自行承担，下载后请在24小时内删除
 
 <!--
 **bigreshub/bigreshub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
